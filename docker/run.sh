@@ -5,7 +5,7 @@
 REPO=docker-reg.emotibot.com.cn:55688
 # The name of the container, should use the name of the repo is possible
 # <EDIT_ME>
-CONTAINER=te-webhook
+CONTAINER=cathaylife-webhook
 # </EDIT_ME>
 
 # Get tags from args
